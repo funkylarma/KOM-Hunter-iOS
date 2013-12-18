@@ -6,9 +6,9 @@
 //  Copyright (c) 2013 Adam Chamberlin. All rights reserved.
 //
 
-#import "SVDAppDelegate.h"
+#import "AppDelegate.h"
 
-@implementation SVDAppDelegate
+@implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
